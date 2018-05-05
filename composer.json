@@ -1,5 +1,5 @@
 {
-    "name": "dshumkov/nzpost-php-lib",
+    "name": "dshumkov/nzpost-client",
     "description": "NZ Post API client",
     "type": "library",
     "license": "MIT",
